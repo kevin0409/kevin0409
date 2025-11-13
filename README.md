@@ -10,7 +10,7 @@
 - **생년월일:** 2000.04.09  
 - **이메일:** [joinus0409@naver.com](mailto:joinus0409@naver.com)  
 - **GitHub:** [github.com/kevin0409](https://github.com/kevin0409)  
-- **포트폴리오:** [📂 PDF 다운로드]([포토폴리오(박승호)_(1).pdf](https://github.com/user-attachments/files/23513602/-.pdf))
+- **포트폴리오:** [📂 PDF 다운로드](https://github.com/user-attachments/files/23513602/-.pdf)
 
 ---
 
@@ -63,7 +63,7 @@
 - **발표 학회:** ACK 2024 ICT 프로보노 융합 부문  
 - **역할:** 공동 저자  
 - **출판:** 2024.11  
-- [📄 논문 보기 (KIPS_C2024B0242.pdf)]([KIPS_C2024B0242.pdf](https://github.com/user-attachments/files/23513605/KIPS_C2024B0242.pdf))
+- [📄 논문 보기 (KIPS_C2024B0242.pdf)](https://github.com/user-attachments/files/23513605/KIPS_C2024B0242.pdf)
 
 ---
 
@@ -80,7 +80,7 @@
 
 | 자격명 | 발급일 | 발급기관 | 비고 |
 |:--|:--|:--|:--|
-| **ADsP (데이터 분석 준전문가)** | 2025.06.13 | 데이터 자격 검정 | [📄 증명서 보기]([ADsP.pdf](https://github.com/user-attachments/files/23513608/ADsP.pdf)) |
+| **ADsP (데이터 분석 준전문가)** | 2025.06.13 | 데이터 자격 검정 | [📄 증명서 보기](https://github.com/user-attachments/files/23513608/ADsP.pdf) |
 | **OPIc - IM1** | 2024.10.04 | ACTFL OPIc | - |
 
 ---
